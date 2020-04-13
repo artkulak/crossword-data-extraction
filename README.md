@@ -7,7 +7,7 @@ With the help of this command line tool you can extract the following data from 
 
 The pipeline is the following: The script cuts the input image on cells (using OpenCV), then it applies the trained classifier written in PyTorch in order to classifty each cell on the classes like: different arrow variations, single text, double text, other (you can find all classes in the `JsonExtractor/training_data/` folder. If the cell is a text, then the algorithm extracts the text using Pytesseract. If the frame is an arrow, then the corresponding text is found, in order to find the direction and the starting cell of the word.
 
-![JsonExtractor/images/schema.png]
+![](JsonExtractor/images/schema.png)
 
 
 
