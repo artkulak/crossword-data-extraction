@@ -17,3 +17,4 @@ The pipeline is the following: The script cuts the input image on cells (using O
 3. Run the app with `python extractJson.py --path <path to the crossword file>` (you can use `JsonExtractor/data/p1_2.png` for reference)
 4. Find the resulting json information in the same folder.
 
+
