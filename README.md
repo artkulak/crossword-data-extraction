@@ -1,5 +1,9 @@
 # Crossword Data Extraction CLI Tool
 
+<br> **Checkout my writeup regarding this problem:**
+[Here](https://artkulakov.com/post/understanding-crossword-puzzles-with-opencv-ocr-and-dnns/)
+
+
 With the help of this command line tool you can extract the following data from the French crosswords (changing the language is fairly easy though):
 1. Description of each word
 2. Direction of each word
