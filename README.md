@@ -16,7 +16,7 @@ The pipeline is the following: The script cuts the input image on cells (using O
 
 
 ## Instructions
-1. Clone the repo and run `pip -r install requirements.txt`
+1. Clone the repo and run `pip install -r requirements.txt`
 2. `cd JsonExtractor/`
 3. Run the app with `python extractJson.py --path <path to the crossword file>` (you can use `JsonExtractor/data/p1_2.png` for reference)
 4. Find the resulting json information in the same folder.
